@@ -56,6 +56,53 @@
                 <!-- Aqui a gente adicione mais cards se quiser so copiar o de cima e replicar -->
             </div>
         </section>
+        <section class="carrossel">
+
+            <div class="container">
+
+                <h2>Nossos Melhores Filmes</h2>
+                <div class="swiper">
+                    <div class="swiper-wrapper">
+
+                        <div class="swiper-slide">
+                            <div class="project-img">
+                                <img src="./imagens/cassino-1280x720.jpg">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="project-img">
+                                <img src="./imagens/oppenheimer-1280x720.jpg">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="project-img">
+                                <img src="./imagens/terminator-2-1280x720.jpg">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="project-img">
+                                <img src="./imagens/the-godfather-1280x720.jpg">
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="project-img">
+                                <img src="./imagens/the-thing-1280x720.jpg">
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+
+        </section>
     </main>
 
     <footer>
