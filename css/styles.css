@@ -161,3 +161,18 @@ footer p {
     color: #f44336;
     font-weight: bold;
 }
+
+.carrossel {
+    background-color: #fff; /* Cor de fundo da seção */
+    padding: 40px 0; /* Espaçamento interno da seção */
+}
+
+.project-img {
+    align-content: center;
+}
+
+.carrossel h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
